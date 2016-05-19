@@ -1,0 +1,15 @@
+BOOTSZ = 1024W_1C00
+BOOTRST = [X]
+RSTDISBL = [ ]
+DWEN = [ ]
+SPIEN = [X]
+WDTON = [ ]
+EESAVE = [ ]
+BODLEVEL = 2V7
+CKDIV8 = [ ]
+CKOUT = [ ]
+SUT_CKSEL = EXTXOSC_8MHZ_XX_16KCK_14CK_65MS
+
+EXTENDED = 0xF8 (valid)
+HIGH = 0xDD (valid)
+LOW = 0xFF (valid)
